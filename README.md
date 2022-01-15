@@ -9,7 +9,7 @@ The data used for this project is located in "samples.js".
 D3, javascript, and Plotly was used to created this dashboard; the code is located in "chart.js". The styling can be found in "index.html". 
 
 ## **Screen Shots**
-The participant/individual would select and ID from the dropdown menu ![img](https://github.com/tutran90/bellybutton/blob/main/DropDown_png.png). The demographic information for the selected ID would populate. Test subject ID no.940 will populate by default. 
+The participant/individual would select and ID from the dropdown menu. The demographic information for the selected ID would populate. Test subject ID no.940 will populate by default. ![img](https://github.com/tutran90/bellybutton/blob/main/DropDown_png.png).
 
 The dashboard will also display the bar chart depiciting the top 10 bacterias found in the sample. ![img](https://github.com/tutran90/bellybutton/blob/main/bar.png)
 
